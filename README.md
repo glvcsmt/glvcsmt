@@ -9,7 +9,7 @@ Fueled by coffee, curiosity and late-night coding sessions, I'm a computer engin
 * 🌍  I'm based in Hungary
 * ✉️  You can contact me at [mategalavics@gmail.com](mailto:mategalavics@gmail.com)
 * 🧠  I'm learning Python and a bit more SQL.
-* ⚡  Funfact: I'm either in a boat on the water or under my car🚣🏻‍♂️🔧🚗
+* ⚡  Funfact: When free I'm either in a boat on the water or under my car🚣🏻‍♂️🔧🚗
 
 ### Skills
 
