@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Máté Galavics
 =====================================================================================================================================
 
-Debugging my way to a Computer Engineering degree.
+Debugging my way to a Computer Science Engineering degree.
 --------------------------------------------------
 
 Fueled by coffee, curiosity and late-night coding sessions, I'm a computer engineering student who thrives on the challenge of turning complex concepts into elegant solutions. Learning to code since 2019 my passion for code isn't just about textbooks and lectures - it's about bridging the gap between theory and real-world applications.
